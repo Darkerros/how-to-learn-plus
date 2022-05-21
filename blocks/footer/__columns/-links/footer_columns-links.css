@@ -2,8 +2,15 @@
     text-decoration: none;
     color: var(--first-background-color);
 
+    list-style: none;
+    padding: 0;
+
     line-height: 18px;
     font-size: 18px;
     font-weight: 500;
     margin-bottom: 10px;
+}
+
+.footer__columns-links ul{
+  margin-bottom: 16px;
 }
