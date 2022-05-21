@@ -1,0 +1,8 @@
+.content__techniques-cards-item-title{
+    text-align: center;
+    margin: 43px 0 16px;
+
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: var(--text-weigh-bold);
+}

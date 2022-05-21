@@ -1,0 +1,7 @@
+@import url(./-logo/footer__columns_content_copyright-logo.css);
+@import url(./-author/footer__columns_content_copyright-author.css);
+
+
+.footer__columns_content_copyright{
+    flex-basis: 711px;
+}

@@ -1,0 +1,6 @@
+@import url(./__item);
+
+.cards{
+    display: flex;
+    margin: 0 auto;
+}

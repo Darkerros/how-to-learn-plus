@@ -1,0 +1,9 @@
+@import url(./-item/content_techniques-cards-item.css);
+
+
+.content__techniques-cards{
+    margin: 0 auto;
+    width: 920px;
+    flex-wrap: wrap;
+
+}

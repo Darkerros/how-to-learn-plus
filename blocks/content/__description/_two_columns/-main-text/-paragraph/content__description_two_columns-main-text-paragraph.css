@@ -1,0 +1,12 @@
+.content__description_two_columns-main-text-paragraph{
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--text-color);
+}
+
+.content__description_two_columns-main-text-paragraph-cursiv{
+    font-weight: var(--text-weigh-bold);
+    line-height: 34px;
+    font-size: 24px;
+}

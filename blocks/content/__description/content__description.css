@@ -1,0 +1,5 @@
+@import url(./_two_columns/content__description_two_columns.css);
+
+.content__description{
+    padding: 100px 0;
+}

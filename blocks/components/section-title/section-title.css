@@ -1,0 +1,6 @@
+@import url(./_theme/-dark/section-title_theme-dark.css);
+
+.section-title{
+    text-align: center;
+    margin: 0 auto;
+}

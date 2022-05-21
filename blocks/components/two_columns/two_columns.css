@@ -1,0 +1,8 @@
+@import url(./__brief/two_columns__brief.css);
+@import url(./__main-text/two__columns__main-text.css);
+.two_columns{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    min-width: 784px;
+}

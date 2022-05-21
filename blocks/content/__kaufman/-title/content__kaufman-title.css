@@ -1,0 +1,9 @@
+.content__kaufman-title{
+    width: 60%;
+    margin: 90px auto 20px;
+    background-color: var(--second-background-color);
+
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: var(--text-weigh-bold);
+}

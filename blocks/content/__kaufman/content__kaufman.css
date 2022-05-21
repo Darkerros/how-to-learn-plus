@@ -1,0 +1,10 @@
+@import url(./-subtitle/content__kaufman-subtitle.css);
+@import url(./-table/content__kaufman-table.css);
+@import url(./-title/content__kaufman-title.css);
+
+.content__kaufman{
+    background-color: var(--second-background-color);
+    color: var(--first-background-color);
+    padding-top: 90px;
+    padding-bottom: 90px;
+}

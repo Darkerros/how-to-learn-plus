@@ -1,0 +1,12 @@
+@import url(./-text/content__kaufman-table-cell-text.css);
+@import url(./-heading/content__kaufman-table-cell-heading.css);
+
+
+.content__kaufman-table-cell{
+    padding-top: 80px;
+    width: 200px;
+
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: 500;
+}

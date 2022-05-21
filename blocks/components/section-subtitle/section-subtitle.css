@@ -1,0 +1,6 @@
+@import url(./_theme/-dark/section-subtitle_theme-dark.css);
+
+.section-subtitle{
+    text-align: center;
+    margin: 0 auto;
+}

@@ -1,0 +1,9 @@
+@import url(./-subtitle/content_techniques-subtitle.css);
+@import url(./-title/content__techniques-title.css);
+@import url(./-cards/content_techniques-cards.css);
+
+.content__techniques{
+    width: 80%;
+
+    margin: auto;
+}
