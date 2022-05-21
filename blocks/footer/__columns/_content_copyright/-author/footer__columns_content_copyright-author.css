@@ -1,6 +1,9 @@
 .footer__columns_content_copyright-author{
-    margin: 16px 0;
+
     bottom: 0;
+    left: 0;
+
+    margin: 16px 0;
     position: absolute;
 
     line-height: 25px;
