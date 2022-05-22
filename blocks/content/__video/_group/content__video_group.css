@@ -1,0 +1,6 @@
+.content__video_group{
+  height: 250px;
+
+  justify-content: center;
+  display: flex;
+}

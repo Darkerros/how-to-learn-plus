@@ -3,4 +3,8 @@
 .section-title{
     text-align: center;
     margin: 0 auto;
+    width: 60%;
+    font-weight: 700;
+    line-height: 1.15;
+    font-size: 60px;
 }

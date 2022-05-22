@@ -1,0 +1,14 @@
+@import url(./_image/content__feynman_image.css);
+@import url(./_link/content__feynman_link.css);
+@import url(./_subtitle/content__feynman_subtitle.css);
+@import url(./_title/content__feynman_title.css);
+
+
+.content__feynman{
+  z-index: 1;
+  min-height: 800px;
+  max-height: 800px;
+  padding-top: 100px;
+  position: relative;
+  background-color: var(--first-background-color);
+}

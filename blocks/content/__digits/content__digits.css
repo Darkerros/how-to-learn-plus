@@ -1,3 +1,6 @@
-@import url(./-title/content__digits-title.css);
-@import url(./-subtitle/content__digits-subtitle.css);
+@import url(./_cell/content__digits_cell.css);
+@import url(./_heading/content__digits_table-cell-heading.css);
+@import url(./_subtitle/content__digits_subtitle.css);
 @import url(./_table/content__digits_table.css);
+@import url(./_text/content__digits_text.css);
+@import url(./_title/content__digits_title.css);
