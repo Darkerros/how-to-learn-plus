@@ -1,0 +1,5 @@
+@import url(_theme/table__cell_text_theme.css);
+
+.table__cell-text{
+  margin: 0;
+}
