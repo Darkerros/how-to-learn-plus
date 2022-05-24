@@ -1,1 +1,6 @@
 @import url(./_theme/table__cell-heading_theme.css);
+
+
+.table__cell-heading{
+  margin: 0;
+}

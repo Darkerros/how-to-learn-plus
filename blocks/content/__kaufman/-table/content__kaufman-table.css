@@ -1,9 +1,0 @@
-@import url(./-cell/content__kaufman-table-cell.css);
-
-.content__kaufman-table{
-    background-color: var(--second-background-color);
-    color: var(--first-background-color);
-    margin: 0 auto;
-
-    width: 70%;
-}
