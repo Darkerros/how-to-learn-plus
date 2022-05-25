@@ -1,0 +1,10 @@
+@import url(./_theme/table__cell_theme-dark.css);
+.table__cell{
+  width: 250px;
+  margin-bottom: 60px;
+
+}
+
+.table__cell:nth-last-of-type(4),.table__cell:nth-last-of-type(3),.table__cell:nth-last-of-type(2),.table__cell:nth-last-of-type(1){
+  margin-bottom: 0;
+}
