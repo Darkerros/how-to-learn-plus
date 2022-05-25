@@ -1,8 +1,0 @@
-@import url(./_brief/content__description_brief.css);
-@import url(./_main-text/content__description_main_text.css);
-@import url(./_paragraph/content__description_paragraph.css);
-@import url(./_two_columns/content__description_two_columns.css);
-
-.content__description{
-  padding: 100px 0;
-}

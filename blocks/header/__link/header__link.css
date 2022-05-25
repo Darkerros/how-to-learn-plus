@@ -1,6 +1,4 @@
 .header__link{
-    text-decoration: none;
-    color: var(--url-figure-color);
-
-    z-index: 2;
+  text-decoration: none;
+  color: var(--url-figure-color);
 }

@@ -1,9 +1,0 @@
-@import url(_iframe/content__video_iframe.css);
-@import url(_title/content__video_title.css);
-@import url(_subtitle/content__video_subtitle.css);
-@import url(_group/content__video_group.css);
-
-.content__video{
-  padding-top: 100px;
-
-}
