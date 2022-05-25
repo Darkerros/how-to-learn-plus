@@ -1,5 +1,6 @@
 @import url(./_theme/table__text_theme-dark.css);
 .table__text{
+  margin-top: 0;
   margin-bottom: 20px;
   line-height: 1.2;
   font-size: 18px;
