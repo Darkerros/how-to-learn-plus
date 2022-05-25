@@ -1,7 +1,0 @@
-.kaufman__cell{
-  max-width: 200px;
-}
-
-.kaufman__cell:nth-last-of-type(5){
-  margin: 0;
-}

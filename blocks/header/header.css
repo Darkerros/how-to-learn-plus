@@ -10,5 +10,8 @@
   max-height: 756px;
   height: 100vh;
   overflow: hidden;
+
+  background-color: var(--first-background-color);
+  z-index: 1;
 }
 
