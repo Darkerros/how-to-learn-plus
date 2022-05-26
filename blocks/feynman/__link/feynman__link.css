@@ -5,4 +5,8 @@
   text-decoration: none;
   color: var(--url-figure-color);
   z-index: 1;
+
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: var(--text-weigh-normal);
 }
