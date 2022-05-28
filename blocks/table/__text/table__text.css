@@ -3,7 +3,7 @@
   margin-bottom: 20px;
   line-height: 1.2;
   font-size: 18px;
-  font-weight: var(--text-weigh-normal);
+  font-weight: var(--text-weight-normal);
 }
 
 .table__text:last-of-type{
