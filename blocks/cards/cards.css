@@ -1,6 +1,10 @@
 .cards{
   display: flex;
+
   flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+
   width: 920px;
   margin: 0 auto 60px;
   padding: 0;
