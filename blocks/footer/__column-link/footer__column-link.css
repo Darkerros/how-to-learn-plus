@@ -2,11 +2,11 @@
   text-decoration: none;
 
   color: white;
-  margin-bottom: 10px;
+
 
   line-height: 18px;
   font-size: 18px;
-  font-weight: var(--text-weigh-normal);
+  font-weight: var(--text-weight-normal);
 }
 
 .footer__column-link:last-of-type{
