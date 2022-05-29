@@ -6,7 +6,7 @@
 
   line-height: 18px;
   font-size: 18px;
-  font-weight: var(--text-weight-normal);
+  font-weight: var(--font-weight-normal);
 }
 
 .footer__column-link:last-of-type{
