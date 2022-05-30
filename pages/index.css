@@ -75,15 +75,11 @@
 @import url(../blocks/khan/__title/khan__title.css);
 
 /*kaufman*/
-@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
-@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/__cell/kaufman__cell.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 /*resources*/
 @import url(../blocks/resources/resources.css);
-@import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 

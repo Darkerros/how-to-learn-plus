@@ -1,9 +1,10 @@
 
 .feynman{
   position: relative;
-  height: 750px;
+  min-height: 750px;
   padding-top: 100px;
   background-color: var(--first-background-color);
   z-index: 1;
+  box-sizing: border-box;
 }
 

@@ -1,7 +1,6 @@
 
 
 .footer__columns{
-  min-height: 350px;
   display: flex;
   justify-content: space-between;
   -webkit-box-pack: justify;
@@ -10,5 +9,5 @@
 
 
   width: 90%;
-  margin: 0 auto;
+
 }

@@ -1,5 +1,8 @@
 
 .footer{
+  position: relative;
+  display: flex;
+  justify-content: center;
   color: white;
   min-height: 350px;
   background-color: var(--second-background-color);
