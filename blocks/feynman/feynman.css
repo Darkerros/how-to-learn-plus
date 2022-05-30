@@ -1,7 +1,7 @@
 
 .feynman{
   position: relative;
-  min-height: 750px;
+  min-height: 790px;
   padding-top: 100px;
   background-color: var(--first-background-color);
   z-index: 1;
